@@ -28,7 +28,7 @@ will appear in the highscores page.
 
 DEPLOYED URL:
 
-https://lmmccullum.github.io/The-Ultimate-Coding-Quiz/
+https://lmmccullum.github.io/Ultimate-Coding-Quiz/
 
 SCREENSHOT:
 
